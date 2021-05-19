@@ -43,12 +43,11 @@ export default function Home({latestEpisodes, allEpisodes}: HomeProps) {
         <ul>
           {latestEpisodes.map((ep, index) => (
             <li key={ep.id}>
-              <Image
+              <img
                 width={120}
                 height={120}
                 src={ep.thumbnail}
                 alt={ep.title}
-                objectFit='cover'
               />
 
               <div className={styles.episodeDetails}>

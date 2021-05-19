@@ -23,6 +23,8 @@
       border-radius: 1.5rem;
       position: relative;
 
+      width: 28rem;
+
       display: flex;
       align-items: center;
 
@@ -35,6 +37,8 @@
       .episodeDetails{
         flex: 1;
         margin-left: 1rem;
+        overflow: hidden;
+        text-overflow: ellipsis;
 
         a{
           display: block;
