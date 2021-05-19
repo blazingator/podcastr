@@ -13,4 +13,10 @@ App para ouvir episódios de um podcast ([FalaDev](https://www.youtube.com/watch
 - [ReactJS](https://reactjs.org)
 - [Next.js](https://nextjs.org)
 
+## To-Do
+- [ ] Melhorias no layout
+- [ ] Fazer tema escuro
+- [ ] Tornar layout responsivo
+- [ ] Fazer uma versão em PWA
+
 [home]: Home.png
